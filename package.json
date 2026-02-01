@@ -1,0 +1,11 @@
+{
+  "name": "week5",
+  "version": "1.0.0",
+  "description": "Week 5 unit tests",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
